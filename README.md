@@ -5,6 +5,8 @@ A curated list of tools using and applications of Grounding DINO.
 ## Projects
 
 - [Grounding DINO GitHub repository](https://github.com/IDEA-Research/GroundingDINO)
+- [Grounded Segment Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything): Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & Chatbot. Automatically Detect, Segment and Generate Anything with Image, Text, and Audio Inputs
+- [Autodistill Grounding DINO](https://github.com/autodistill): Distill knowledge from Grounding DINO into a smaller, edge-ready model.
 
 ## Tutorials
 
